@@ -20,7 +20,7 @@ public class SinhVienService {
         return sinhViens.add(sinhVien);
     }
 
-
+// tetsdjaksfkajdfkas
     public boolean sua(SinhVien sinhVien) {
         if (sinhVien == null) {
             throw new NullPointerException("sinhVien is null");
